@@ -12,11 +12,11 @@
 <body>
    <section class="wrapper">
     <header>
-      <h1 class="logo"><a href="index.html">IntroPHP7 Juan Pablo Carrillo Román 21090979</a></h1>
+      <h1 class="logo"><a href="index.html">IntroPHP7</a></h1>
       <nav>
       <ul>
         <li><a href="index.php" class="current">Inicio</a></li>
-        <li><a href=basicoPhp7.php>Básico Php7</a></li>
+        <li><a href=basicoPhp7.php>Básico Php7 Juan Pablo Carrillo Román 21090979</a></li>
       </ul>
       </nav>
     </header>
